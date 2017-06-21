@@ -1,1 +1,3 @@
-# eloquent_js
+# Eloquent JavaScript
+
+Completed Exercises from the Eloquent JavaScript book
