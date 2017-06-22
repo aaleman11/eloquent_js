@@ -12,7 +12,7 @@ function range(start, end, step){
     let values = []
 
     if(arguments.length < 2){                        //Check to see if enough arguments are passed through the function
-        return null
+        return values
     }
     else if (step == undefined){                     //Check if step in included
         values = pushValuesToArrayWithoutStep(start, end, values)
